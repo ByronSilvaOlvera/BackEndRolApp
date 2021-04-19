@@ -21,6 +21,8 @@ Accede al siguiente enlace [shorturl.at/elFKO](http://shorturl.at/elFKO) y desca
 # BASE DE DATOS 
 Gestor datos : MongoDB
 Configuracion:
+	1. npm install ó npm i para intalar los paquetes
+	2. para iniciar el server con el comando npm run start:dev
 
 	.env: este archivo agregue la ruta de mongoDB. ubicacion: ruta principal. 
 	config.js: este archivo lee las variables globales. ubicacion: database.
